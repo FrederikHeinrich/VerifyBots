@@ -1,19 +1,16 @@
 {
-  "name": "@frederikheinrich/verifybots",
-  "version": "1.0.0",
+  "name": "verifybots",
+  "version": "1.0.1-b",
   "description": "VerifyBots npm api",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "<git_repo_link>"
+    "url": "https://github.com/FrederikHeinrich/VerifyBots"
 },
   "keywords": [],
   "author": "Frederik Heinrich <mail@FrederikHeinrich.de> (https://FrederikHeinrich.de)",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org"
   }
 }
